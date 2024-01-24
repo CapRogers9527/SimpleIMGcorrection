@@ -2,7 +2,7 @@
 
 This script is a simple image correction program made by opencv
 
-在运行前先配置好python运行环境，然后在终端运行：python SimpleIMGcorrection.py即可
+在运行前先配置好python运行环境，然后在终端运行：python IMGcorrection.py即可
 
 Before running the command, configure the python runtime environment and run the command python SimpleIMGcorrection.py on the terminal
 
@@ -11,4 +11,4 @@ Before running the command, configure the python runtime environment and run the
 The custom image path can be selected by modifying the image_path under the internal if __name__ == "__main__":
 
 
-![OpenCV Using SimpleIMGcorrection](result.JPG)
+![OpenCV Using IMGcorrection](result.jpg)
