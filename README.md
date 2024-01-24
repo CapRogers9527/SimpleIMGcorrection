@@ -9,3 +9,6 @@ Before running the command, configure the python runtime environment and run the
 可以通过修改内部if __name__ == "__main__":下的image_path来选择自定义图片路径
 
 The custom image path can be selected by modifying the image_path under the internal if __name__ == "__main__":
+
+
+![OpenCV Using SimpleIMGcorrection](result.JPG)
