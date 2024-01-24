@@ -18,10 +18,12 @@ The custom image path can be selected by modifying the image_path under the inte
 python IMGcorrection.py
 ```
 Original picture：
+
 ![OpenCV Using IMGcorrection](robotics.jpg)
 
 
 Outputs：
+
 ![OpenCV Using IMGcorrection](result.jpg)
 
 # Notes:
