@@ -19,6 +19,8 @@ python IMGcorrection.py
 ```
 Original picture：
 ![OpenCV Using IMGcorrection](robotics.jpg)
+
+
 Outputs：
 ![OpenCV Using IMGcorrection](result.jpg)
 
