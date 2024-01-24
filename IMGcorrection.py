@@ -87,7 +87,7 @@ def save_harris_corners(image_path):
     return corner_array
 
 if __name__ == "__main__":
-    image_path = "check.jpg"
+    image_path = "robotics.jpg"
     corners_array = save_harris_corners(image_path)
 
 
